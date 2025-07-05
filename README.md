@@ -6,7 +6,7 @@ O objetivo é treinar a manipulação de listas e desenvolver domínio sobre os 
 🧩 O que foi praticado
 
 - Criação e manipulação de arrays
-- Uso de métodos como push(), pop(), shift(), unshift(), splice(), slice(), map(), filter(), forEach() e outros
+- Uso de métodos como push(), pop(), shift(), unshift() e etc.
 - Modificação e análise de dados em listas
 
 🛠 Tecnologias Utilizadas
